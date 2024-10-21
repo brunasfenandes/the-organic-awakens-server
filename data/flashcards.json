@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "topic": "Functional Groups",
+    "content": "A functional group is a specific grouping of atoms within molecules that is responsible for the characteristic chemical reactions of those molecules. Common functional groups include hydroxyl (–OH), carbonyl (C=O), and carboxyl (–COOH)."
+  },
+  {
+    "id": 2,
+    "topic": "Alkenes",
+    "content": "Alkenes are hydrocarbons that contain at least one carbon-carbon double bond (C=C). They are unsaturated and can undergo addition reactions to form alkanes."
+  },
+  {
+    "id": 3,
+    "topic": "Esterification",
+    "content": "The reaction between an alcohol and a carboxylic acid in the presence of an acid catalyst produces an ester and water. This process is known as esterification."
+  },
+  {
+    "id": 4,
+    "topic": "Hydrogenation",
+    "content": "Hydrogenation is a chemical reaction that involves the addition of hydrogen (H2) to a compound, typically an alkene, resulting in the saturation of the molecule and forming an alkane."
+  },
+  {
+    "id": 5,
+    "topic": "IUPAC Nomenclature",
+    "content": "The International Union of Pure and Applied Chemistry (IUPAC) provides a systematic method for naming organic chemical compounds based on their structure. For example, C5H12 is named pentane."
+  },
+  {
+    "id": 6,
+    "topic": "Electrophilic Aromatic Substitution",
+    "content": "Electrophilic aromatic substitution is a reaction where an electrophile replaces a hydrogen atom in an aromatic compound, such as benzene. Bromination of benzene in the presence of a catalyst results in bromobenzene."
+  },
+  {
+    "id": 7,
+    "topic": "Aldehydes",
+    "content": "Aldehydes are organic compounds containing a carbonyl group (C=O) at the end of a carbon chain. They can be oxidized to form carboxylic acids."
+  },
+  {
+    "id": 8,
+    "topic": "Amines",
+    "content": "Amines are derivatives of ammonia (NH3) where one or more hydrogen atoms are replaced by alkyl or aryl groups. Primary amines have one carbon atom attached to the nitrogen atom."
+  },
+  {
+    "id": 9,
+    "topic": "Isomerism",
+    "content": "Isomerism is the phenomenon where two or more compounds have the same molecular formula but different structural arrangements. This includes structural isomers and stereoisomers."
+  },
+  {
+    "id": 10,
+    "topic": "Catalysts",
+    "content": "A catalyst is a substance that speeds up a chemical reaction without being consumed in the process. It lowers the activation energy required for the reaction to occur."
+  }
+]

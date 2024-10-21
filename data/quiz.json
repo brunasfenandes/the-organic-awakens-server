@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of the functional group characterized by the presence of a carbonyl (C=O) group bonded to a hydroxyl (–OH) group?",
+    "options": ["Alcohol", "Ketone", "Carboxylic Acid", "Ester"],
+    "correctAnswer": "Carboxylic Acid"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following compounds is an alkene?",
+    "options": ["C2H6", "C3H8", "C4H10", "C4H8"],
+    "correctAnswer": "C4H8"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary product of the reaction between an alcohol and a carboxylic acid in the presence of an acid catalyst?",
+    "options": ["Ester", "Ether", "Amine", "Alkane"],
+    "correctAnswer": "Ester"
+  },
+  {
+    "id": 4,
+    "question": "Which type of reaction involves the breaking of a double bond in alkenes to form an alkane?",
+    "options": ["Hydrogenation", "Halogenation", "Hydration", "Dehydration"],
+    "correctAnswer": "Hydrogenation"
+  },
+  {
+    "id": 5,
+    "question": "What is the IUPAC name of the compound with the formula C5H12?",
+    "options": ["Pentane", "Butane", "Hexane", "Cyclopentane"],
+    "correctAnswer": "Pentane"
+  },
+  {
+    "id": 6,
+    "question": "What is the major product of the electrophilic aromatic substitution of benzene with bromine in the presence of iron(III) bromide?",
+    "options": ["Bromobenzene", "Benzyl bromide", "Bromocyclohexane", "Ethyl bromide"],
+    "correctAnswer": "Bromobenzene"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a characteristic reaction of aldehydes?",
+    "options": ["Reduction to alcohol", "Dehydration to alkene", "Formation of esters", "Oxidation to ketones"],
+    "correctAnswer": "Oxidation to ketones"
+  },
+  {
+    "id": 8,
+    "question": "Which compound is considered a primary amine?",
+    "options": ["NH2-CH2-CH3", "NH2-CH(CH3)-CH2-CH3", "NH2-CH2-CH2-NH2", "C6H5-NH2"],
+    "correctAnswer": "NH2-CH2-CH3"
+  },
+  {
+    "id": 9,
+    "question": "What type of isomerism occurs when two compounds have the same molecular formula but differ in the arrangement of atoms?",
+    "options": ["Geometric isomerism", "Structural isomerism", "Optical isomerism", "Conformational isomerism"],
+    "correctAnswer": "Structural isomerism"
+  },
+  {
+    "id": 10,
+    "question": "What is the main function of a catalyst in a chemical reaction?",
+    "options": ["Increase the yield", "Speed up the reaction", "Change the product", "Lower the temperature"],
+    "correctAnswer": "Speed up the reaction"
+  }
+]
