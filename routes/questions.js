@@ -11,12 +11,10 @@ try {
   questionsData = [];
 }
 
-// Route to get all questions
 router.get('/', (req, res) => {
   res.json(questionsData);
 });
 
-// Route to get a single question by ID
 router.get('/:id', (req, res) => { 
   const questionId = parseInt(req.params.id, 10);
   const question = questionsData.find(q => q.id === questionId);

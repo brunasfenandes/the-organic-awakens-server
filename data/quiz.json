@@ -1,62 +1,1029 @@
 [
   {
     "id": 1,
-    "question": "What is the name of the functional group characterized by the presence of a carbonyl (C=O) group bonded to a hydroxyl (–OH) group?",
-    "options": ["Alcohol", "Ketone", "Carboxylic Acid", "Ester"],
-    "correctAnswer": "Carboxylic Acid"
+    "topic": "Alkanes and Cycloalkanes",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What are alkanes?",
+        "options": [
+          "Saturated hydrocarbons with the general formula CnH2n+2.",
+          "Cyclic hydrocarbons with the general formula CnH2n.",
+          "Unsaturated hydrocarbons with double bonds.",
+          "Hydrocarbons with the same molecular formula but different structures."
+        ],
+        "correctAnswer": "Saturated hydrocarbons with the general formula CnH2n+2."
+      },
+      {
+        "id": 2,
+        "question": "What are cycloalkanes?",
+        "options": [
+          "Cyclic hydrocarbons with the general formula CnH2n.",
+          "Saturated hydrocarbons with the general formula CnH2n+2.",
+          "Hydrocarbons containing double bonds.",
+          "Molecules with the same molecular formula but different structures."
+        ],
+        "correctAnswer": "Cyclic hydrocarbons with the general formula CnH2n."
+      },
+      {
+        "id": 3,
+        "question": "Why do straight-chain alkanes have higher boiling points than branched isomers?",
+        "options": [
+          "Due to greater surface area.",
+          "Due to lower molecular weight.",
+          "Due to fewer hydrogen atoms.",
+          "Due to the presence of double bonds."
+        ],
+        "correctAnswer": "Due to greater surface area."
+      },
+      {
+        "id": 4,
+        "question": "What is the primary reaction that alkanes undergo?",
+        "options": [
+          "Combustion.",
+          "Hydrogenation.",
+          "Dehydration.",
+          "Substitution."
+        ],
+        "correctAnswer": "Combustion."
+      },
+      {
+        "id": 5,
+        "question": "What is a Newman projection used for?",
+        "options": [
+          "Visualizing the spatial arrangement of atoms in alkanes and cycloalkanes.",
+          "Determining boiling points of alkanes.",
+          "Analyzing the acidity of compounds.",
+          "Visualizing molecular orbital interactions."
+        ],
+        "correctAnswer": "Visualizing the spatial arrangement of atoms in alkanes and cycloalkanes."
+      },
+      {
+        "id": 6,
+        "question": "Which factor does not influence the boiling points of alkanes and cycloalkanes?",
+        "options": [
+          "pH.",
+          "Molecular weight.",
+          "Branching.",
+          "Surface area."
+        ],
+        "correctAnswer": "pH."
+      },
+      {
+        "id": 7,
+        "question": "What can cause ring strain in cycloalkanes?",
+        "options": [
+          "Bond angles deviating from their ideal values.",
+          "Presence of double bonds.",
+          "Too many hydrogen atoms.",
+          "Low molecular weight."
+        ],
+        "correctAnswer": "Bond angles deviating from their ideal values."
+      },
+      {
+        "id": 8,
+        "question": "How are cis and trans configurations in cycloalkanes differentiated?",
+        "options": [
+          "By the arrangement of substituents around the ring.",
+          "By the molecular weight of the compound.",
+          "By the presence of triple bonds.",
+          "By their boiling points."
+        ],
+        "correctAnswer": "By the arrangement of substituents around the ring."
+      },
+      {
+        "id": 9,
+        "question": "What are the products of alkane combustion?",
+        "options": [
+          "Carbon dioxide (CO2) and water (H2O).",
+          "Carbon monoxide (CO) and hydrogen gas.",
+          "Methane and oxygen.",
+          "Sulfur dioxide (SO2) and water."
+        ],
+        "correctAnswer": "Carbon dioxide (CO2) and water (H2O)."
+      },
+      {
+        "id": 10,
+        "question": "What is the common cyclic alkane consisting of six carbon atoms?",
+        "options": [
+          "Cyclohexane.",
+          "Cyclopentane.",
+          "Cyclobutane.",
+          "Cycloheptane."
+        ],
+        "correctAnswer": "Cyclohexane."
+      }
+    ]
   },
   {
     "id": 2,
-    "question": "Which of the following compounds is an alkene?",
-    "options": ["C2H6", "C3H8", "C4H10", "C4H8"],
-    "correctAnswer": "C4H8"
+    "topic": "Alkenes and Alkynes",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the general formula of alkenes?",
+        "options": [
+          "CnH2n.",
+          "CnH2n-2.",
+          "CnH2n+2.",
+          "C2nH2n."
+        ],
+        "correctAnswer": "CnH2n."
+      },
+      {
+        "id": 2,
+        "question": "What characterizes alkynes?",
+        "options": [
+          "Presence of a carbon-carbon triple bond.",
+          "Presence of a carbon-carbon double bond.",
+          "Presence of only single bonds.",
+          "Presence of a carbon-carbon quadruple bond."
+        ],
+        "correctAnswer": "Presence of a carbon-carbon triple bond."
+      },
+      {
+        "id": 3,
+        "question": "What does Markovnikov's rule state?",
+        "options": [
+          "The hydrogen will attach to the carbon with more hydrogens.",
+          "The hydrogen will attach to the carbon with fewer hydrogens.",
+          "Alkynes are favored in electrophilic additions.",
+          "The less substituted alkene will be the major product."
+        ],
+        "correctAnswer": "The hydrogen will attach to the carbon with more hydrogens."
+      },
+      {
+        "id": 4,
+        "question": "What happens during the hydrogenation of alkynes?",
+        "options": [
+          "They are converted into alkenes or alkanes by adding hydrogen.",
+          "They form carbon dioxide and water.",
+          "They break down into simpler hydrocarbons.",
+          "They polymerize into larger molecules."
+        ],
+        "correctAnswer": "They are converted into alkenes or alkanes by adding hydrogen."
+      },
+      {
+        "id": 5,
+        "question": "What does Zaitsev's rule predict?",
+        "options": [
+          "The more substituted alkene will be the major product in elimination reactions.",
+          "The least substituted alkene will be the major product in elimination reactions.",
+          "Alkynes are more stable than alkenes.",
+          "Alkenes cannot undergo elimination reactions."
+        ],
+        "correctAnswer": "The more substituted alkene will be the major product in elimination reactions."
+      },
+      {
+        "id": 6,
+        "question": "What distinguishes cis alkenes from trans alkenes?",
+        "options": [
+          "Cis alkenes have substituents on the same side of the double bond.",
+          "Trans alkenes have substituents on the same side of the double bond.",
+          "Cis alkenes have only single bonds.",
+          "Trans alkenes have triple bonds."
+        ],
+        "correctAnswer": "Cis alkenes have substituents on the same side of the double bond."
+      },
+      {
+        "id": 7,
+        "question": "What is the mechanism of electrophilic addition to alkenes?",
+        "options": [
+          "A two-step mechanism involving carbocation formation.",
+          "A one-step mechanism without intermediates.",
+          "A mechanism involving free radicals.",
+          "A mechanism that does not involve double bonds."
+        ],
+        "correctAnswer": "A two-step mechanism involving carbocation formation."
+      },
+      {
+        "id": 8,
+        "question": "Which reagent is used to cleave alkenes oxidatively?",
+        "options": [
+          "Ozone (O3).",
+          "Hydrochloric acid (HCl).",
+          "Hydrogen gas (H2).",
+          "Sulfuric acid (H2SO4)."
+        ],
+        "correctAnswer": "Ozone (O3)."
+      },
+      {
+        "id": 9,
+        "question": "What product is formed from the hydration of an alkyne?",
+        "options": [
+          "An enol, which tautomerizes to form a ketone or aldehyde.",
+          "A straight-chain alkane.",
+          "A cycloalkane.",
+          "An alkane with more hydrogen atoms."
+        ],
+        "correctAnswer": "An enol, which tautomerizes to form a ketone or aldehyde."
+      },
+      {
+        "id": 10,
+        "question": "What does syn addition refer to?",
+        "options": [
+          "Addition of two substituents to the same side of a double bond.",
+          "Addition of two substituents to opposite sides of a double bond.",
+          "Addition of one substituent at a time.",
+          "Addition of hydrogen to a triple bond."
+        ],
+        "correctAnswer": "Addition of two substituents to the same side of a double bond."
+      }
+    ]
   },
   {
     "id": 3,
-    "question": "What is the primary product of the reaction between an alcohol and a carboxylic acid in the presence of an acid catalyst?",
-    "options": ["Ester", "Ether", "Amine", "Alkane"],
-    "correctAnswer": "Ester"
+    "topic": "Aromatic Compounds",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the structure of benzene?",
+        "options": [
+          "A planar, cyclic molecule with alternating single and double bonds.",
+          "A linear molecule with single bonds only.",
+          "A three-dimensional pyramid structure.",
+          "A non-cyclic molecule with only double bonds."
+        ],
+        "correctAnswer": "A planar, cyclic molecule with alternating single and double bonds."
+      },
+      {
+        "id": 2,
+        "question": "What is Hückel's rule?",
+        "options": [
+          "A compound is aromatic if it has 4n+2 π electrons.",
+          "A compound is aromatic if it has 6 π electrons.",
+          "A compound is aromatic if it contains only single bonds.",
+          "A compound is aromatic if it has an even number of π electrons."
+        ],
+        "correctAnswer": "A compound is aromatic if it has 4n+2 π electrons."
+      },
+      {
+        "id": 3,
+        "question": "What is electrophilic aromatic substitution?",
+        "options": [
+          "A reaction where an electrophile replaces a hydrogen on an aromatic ring.",
+          "A reaction that adds a hydrogen atom to an aromatic ring.",
+          "A reaction that removes an aromatic hydrogen atom.",
+          "A reaction involving only nucleophiles."
+        ],
+        "correctAnswer": "A reaction where an electrophile replaces a hydrogen on an aromatic ring."
+      },
+      {
+        "id": 4,
+        "question": "What is the product of nitration of benzene?",
+        "options": [
+          "Nitrobenzene.",
+          "Phenol.",
+          "Toluene.",
+          "Benzaldehyde."
+        ],
+        "correctAnswer": "Nitrobenzene."
+      },
+      {
+        "id": 5,
+        "question": "Which catalyst is used in Friedel-Crafts alkylation?",
+        "options": [
+          "AlCl3.",
+          "H2SO4.",
+          "NaOH.",
+          "FeBr3."
+        ],
+        "correctAnswer": "AlCl3."
+      },
+      {
+        "id": 6,
+        "question": "What is resonance in aromatic compounds?",
+        "options": [
+          "Delocalization of π electrons across the ring.",
+          "Movement of atoms in a molecular structure.",
+          "Formation of a triple bond.",
+          "Conversion of a solid to a liquid state."
+        ],
+        "correctAnswer": "Delocalization of π electrons across the ring."
+      },
+      {
+        "id": 7,
+        "question": "What is a polycyclic aromatic hydrocarbon?",
+        "options": [
+          "A compound with multiple fused aromatic rings.",
+          "A compound with only one aromatic ring.",
+          "A compound containing aliphatic and aromatic structures.",
+          "A compound with no rings."
+        ],
+        "correctAnswer": "A compound with multiple fused aromatic rings."
+      },
+      {
+        "id": 8,
+        "question": "What do ortho, meta, and para refer to?",
+        "options": [
+          "The relative positions of substituents on the aromatic ring.",
+          "Different types of aromatic compounds.",
+          "Different reactions of aromatic compounds.",
+          "The strength of aromatic bonds."
+        ],
+        "correctAnswer": "The relative positions of substituents on the aromatic ring."
+      },
+      {
+        "id": 9,
+        "question": "Which group is an ortho/para director in electrophilic aromatic substitution?",
+        "options": [
+          "A methyl group (-CH3).",
+          "A nitro group (-NO2).",
+          "A carboxylic acid (-COOH).",
+          "A halogen atom."
+        ],
+        "correctAnswer": "A methyl group (-CH3)."
+      },
+      {
+        "id": 10,
+        "question": "What is a halogenation reaction of benzene?",
+        "options": [
+          "Substitution of a hydrogen atom by a halogen atom in the presence of a catalyst.",
+          "Addition of halogens to a double bond.",
+          "Formation of benzyl halides.",
+          "Reduction of halogenated compounds."
+        ],
+        "correctAnswer": "Substitution of a hydrogen atom by a halogen atom in the presence of a catalyst."
+      }
+    ]
   },
   {
     "id": 4,
-    "question": "Which type of reaction involves the breaking of a double bond in alkenes to form an alkane?",
-    "options": ["Hydrogenation", "Halogenation", "Hydration", "Dehydration"],
-    "correctAnswer": "Hydrogenation"
+    "topic": "Alcohols and Phenols",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the functional group in alcohols?",
+        "options": [
+          "-OH (hydroxyl group)",
+          "-NH2 (amino group)",
+          "-COOH (carboxyl group)",
+          "-CHO (aldehyde group)"
+        ],
+        "correctAnswer": "-OH (hydroxyl group)"
+      },
+      {
+        "id": 2,
+        "question": "How do alcohols differ from phenols?",
+        "options": [
+          "Alcohols have the -OH group bonded to a saturated carbon; phenols to an aromatic ring.",
+          "Alcohols are more acidic than phenols.",
+          "Phenols are alcohols with a higher molecular weight.",
+          "Alcohols do not contain hydroxyl groups."
+        ],
+        "correctAnswer": "Alcohols have the -OH group bonded to a saturated carbon; phenols to an aromatic ring."
+      },
+      {
+        "id": 3,
+        "question": "What is the product of the oxidation of a primary alcohol?",
+        "options": [
+          "An alcohol",
+          "An aldehyde, and further oxidation gives a carboxylic acid.",
+          "A ketone",
+          "An ether"
+        ],
+        "correctAnswer": "An aldehyde, and further oxidation gives a carboxylic acid."
+      },
+      {
+        "id": 4,
+        "question": "What is the result of the dehydration of an alcohol?",
+        "options": [
+          "An alkene",
+          "An ether",
+          "A carboxylic acid",
+          "A ketone"
+        ],
+        "correctAnswer": "An alkene."
+      },
+      {
+        "id": 5,
+        "question": "What test is used to distinguish primary, secondary, and tertiary alcohols?",
+        "options": [
+          "The Lucas test",
+          "The Tollens' test",
+          "The Benedict's test",
+          "The Fehling's test"
+        ],
+        "correctAnswer": "The Lucas test."
+      },
+      {
+        "id": 6,
+        "question": "What is esterification?",
+        "options": [
+          "The reaction of an alcohol with a carboxylic acid to form an ester.",
+          "The conversion of an alcohol into an alkene.",
+          "The reaction of two alcohols to form a ketone.",
+          "The hydrolysis of an ester."
+        ],
+        "correctAnswer": "The reaction of an alcohol with a carboxylic acid to form an ester."
+      },
+      {
+        "id": 7,
+        "question": "What is the acidity of phenols compared to alcohols?",
+        "options": [
+          "Phenols are more acidic than alcohols.",
+          "Phenols are less acidic than alcohols.",
+          "Phenols and alcohols have the same acidity.",
+          "Phenols are neutral."
+        ],
+        "correctAnswer": "Phenols are more acidic than alcohols."
+      },
+      {
+        "id": 8,
+        "question": "What is the reaction of alcohols with strong acids?",
+        "options": [
+          "Formation of an alkyl halide.",
+          "Formation of an ester.",
+          "Dehydration to form an alkene.",
+          "Hydrolysis to form a carboxylic acid."
+        ],
+        "correctAnswer": "Formation of an alkyl halide."
+      },
+      {
+        "id": 9,
+        "question": "What is the structure of glycerol?",
+        "options": [
+          "A trihydroxy alcohol (1,2,3-propanetriol).",
+          "A dihydroxy alcohol (1,2-propanediol).",
+          "A simple alcohol with one hydroxyl group.",
+          "A carboxylic acid."
+        ],
+        "correctAnswer": "A trihydroxy alcohol (1,2,3-propanetriol)."
+      },
+      {
+        "id": 10,
+        "question": "How are alcohols classified?",
+        "options": [
+          "As primary, secondary, or tertiary based on the number of alkyl groups attached to the carbon with the hydroxyl group.",
+          "By their boiling points.",
+          "By their molecular weight.",
+          "Based on their solubility in water."
+        ],
+        "correctAnswer": "As primary, secondary, or tertiary based on the number of alkyl groups attached to the carbon with the hydroxyl group."
+      }
+    ]
   },
   {
     "id": 5,
-    "question": "What is the IUPAC name of the compound with the formula C5H12?",
-    "options": ["Pentane", "Butane", "Hexane", "Cyclopentane"],
-    "correctAnswer": "Pentane"
+    "topic": "Ethers and Epoxides",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the general formula of ethers?",
+        "options": [
+          "R-O-R'",
+          "R-OH",
+          "R-CO-R'",
+          "R-N-R'"
+        ],
+        "correctAnswer": "R-O-R'"
+      },
+      {
+        "id": 2,
+        "question": "What is the Williamson ether synthesis?",
+        "options": [
+          "A method to form ethers from an alkoxide and a haloalkane.",
+          "A method to synthesize alcohols from ethers.",
+          "A method to convert alkynes to alkenes.",
+          "A method for the hydration of alkenes."
+        ],
+        "correctAnswer": "A method to form ethers from an alkoxide and a haloalkane."
+      },
+      {
+        "id": 3,
+        "question": "What is an epoxide?",
+        "options": [
+          "A three-membered cyclic ether.",
+          "A four-membered cyclic ether.",
+          "A type of alcohol.",
+          "A saturated hydrocarbon."
+        ],
+        "correctAnswer": "A three-membered cyclic ether."
+      },
+      {
+        "id": 4,
+        "question": "What reagent opens an epoxide ring under acidic conditions?",
+        "options": [
+          "A nucleophile such as water or alcohol.",
+          "A strong acid.",
+          "A base.",
+          "An alkyl halide."
+        ],
+        "correctAnswer": "A nucleophile such as water or alcohol."
+      },
+      {
+        "id": 5,
+        "question": "How do ethers react with strong acids?",
+        "options": [
+          "They undergo cleavage to form alcohols and alkyl halides.",
+          "They do not react.",
+          "They form esters.",
+          "They decompose to form alkenes."
+        ],
+        "correctAnswer": "They undergo cleavage to form alcohols and alkyl halides."
+      },
+      {
+        "id": 6,
+        "question": "What is the structure of crown ethers?",
+        "options": [
+          "Cyclic ethers with multiple oxygen atoms that can complex with cations.",
+          "Linear ethers with one oxygen atom.",
+          "Aliphatic alcohols with hydroxyl groups.",
+          "Aromatic compounds containing ketones."
+        ],
+        "correctAnswer": "Cyclic ethers with multiple oxygen atoms that can complex with cations."
+      },
+      {
+        "id": 7,
+        "question": "What is the main use of ethers in industry?",
+        "options": [
+          "As solvents, particularly for Grignard reactions.",
+          "As reactants in polymerization.",
+          "As catalysts in esterification.",
+          "As fuels."
+        ],
+        "correctAnswer": "As solvents, particularly for Grignard reactions."
+      },
+      {
+        "id": 8,
+        "question": "How are cyclic ethers formed?",
+        "options": [
+          "Through the cyclization of dihydroxy compounds.",
+          "By the reaction of alcohols with acids.",
+          "By the reduction of aldehydes.",
+          "Through the oxidation of alkenes."
+        ],
+        "correctAnswer": "Through the cyclization of dihydroxy compounds."
+      },
+      {
+        "id": 9,
+        "question": "What is the reaction of epoxides with bases?",
+        "options": [
+          "Nucleophilic ring opening to form diols.",
+          "Formation of esters.",
+          "Dehydration to form alkenes.",
+          "Hydrolysis to form alcohols."
+        ],
+        "correctAnswer": "Nucleophilic ring opening to form diols."
+      },
+      {
+        "id": 10,
+        "question": "What are the physical properties of ethers?",
+        "options": [
+          "Low polarity and relatively low boiling points compared to alcohols.",
+          "High polarity and high boiling points.",
+          "Soluble in water and high boiling points.",
+          "Insoluble in water and high boiling points."
+        ],
+        "correctAnswer": "Low polarity and relatively low boiling points compared to alcohols."
+      }
+    ]
   },
   {
     "id": 6,
-    "question": "What is the major product of the electrophilic aromatic substitution of benzene with bromine in the presence of iron(III) bromide?",
-    "options": ["Bromobenzene", "Benzyl bromide", "Bromocyclohexane", "Ethyl bromide"],
-    "correctAnswer": "Bromobenzene"
+    "topic": "Aldehydes and Ketones",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the general structure of aldehydes?",
+        "options": [
+          "A carbonyl group (C=O) attached to at least one hydrogen.",
+          "A carbonyl group (C=O) attached to two carbon atoms.",
+          "An alcohol group (-OH) attached to a carbon.",
+          "A carboxyl group (-COOH) attached to a carbon."
+        ],
+        "correctAnswer": "A carbonyl group (C=O) attached to at least one hydrogen."
+      },
+      {
+        "id": 2,
+        "question": "What reagent is used in the oxidation of aldehydes?",
+        "options": [
+          "Potassium permanganate (KMnO4)",
+          "Sodium borohydride (NaBH4)",
+          "Hydrogen peroxide (H2O2)",
+          "Lithium aluminum hydride (LiAlH4)"
+        ],
+        "correctAnswer": "Potassium permanganate (KMnO4)"
+      },
+      {
+        "id": 3,
+        "question": "What is the product of the reduction of a ketone?",
+        "options": [
+          "A secondary alcohol.",
+          "A primary alcohol.",
+          "An aldehyde.",
+          "A carboxylic acid."
+        ],
+        "correctAnswer": "A secondary alcohol."
+      },
+      {
+        "id": 4,
+        "question": "What is a nucleophilic addition reaction?",
+        "options": [
+          "A reaction where a nucleophile adds to the carbonyl carbon.",
+          "A reaction where a nucleophile removes a proton.",
+          "A reaction where two compounds combine without a nucleophile.",
+          "A reaction where an electrophile adds to a nucleophile."
+        ],
+        "correctAnswer": "A reaction where a nucleophile adds to the carbonyl carbon."
+      },
+      {
+        "id": 5,
+        "question": "What test distinguishes aldehydes from ketones?",
+        "options": [
+          "Tollens' test",
+          "Fehling's test",
+          "Benedict's test",
+          "Iodoform test"
+        ],
+        "correctAnswer": "Tollens' test"
+      },
+      {
+        "id": 6,
+        "question": "What is a common use of formaldehyde?",
+        "options": [
+          "As a preservative and in the production of plastics.",
+          "As a flavoring agent.",
+          "As a fuel additive.",
+          "As a reducing agent."
+        ],
+        "correctAnswer": "As a preservative and in the production of plastics."
+      },
+      {
+        "id": 7,
+        "question": "What is an enol?",
+        "options": [
+          "A compound with a hydroxyl group (-OH) bonded to a carbon-carbon double bond.",
+          "A compound with a carbonyl group (C=O).",
+          "A saturated hydrocarbon.",
+          "A type of acid."
+        ],
+        "correctAnswer": "A compound with a hydroxyl group (-OH) bonded to a carbon-carbon double bond."
+      },
+      {
+        "id": 8,
+        "question": "What is the structure of acetone?",
+        "options": [
+          "CH3COCH3",
+          "CH3CHO",
+          "C2H5OH",
+          "C2H6"
+        ],
+        "correctAnswer": "CH3COCH3"
+      },
+      {
+        "id": 9,
+        "question": "What reagent forms a cyanohydrin from an aldehyde?",
+        "options": [
+          "HCN (hydrogen cyanide)",
+          "NaBH4 (sodium borohydride)",
+          "H2O (water)",
+          "LiAlH4 (lithium aluminum hydride)"
+        ],
+        "correctAnswer": "HCN (hydrogen cyanide)"
+      },
+      {
+        "id": 10,
+        "question": "What is a hemiacetal?",
+        "options": [
+          "A molecule with an -OH and -OR group bonded to the same carbon atom.",
+          "A molecule with two carbonyl groups.",
+          "A type of ketone.",
+          "A saturated carbon compound."
+        ],
+        "correctAnswer": "A molecule with an -OH and -OR group bonded to the same carbon atom."
+      }
+    ]
   },
   {
     "id": 7,
-    "question": "Which of the following is a characteristic reaction of aldehydes?",
-    "options": ["Reduction to alcohol", "Dehydration to alkene", "Formation of esters", "Oxidation to ketones"],
-    "correctAnswer": "Oxidation to ketones"
+    "topic": "Carboxylic Acids",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What do carboxylic acids contain that makes them acidic?",
+        "options": ["A carboxyl group (-COOH)", "A carbonyl group (C=O)", "A hydroxyl group (-OH)", "An amine group (-NH2)"],
+        "correctAnswer": "A carboxyl group (-COOH)"
+      },
+      {
+        "id": 2,
+        "question": "How does the presence of electron-withdrawing groups affect carboxylic acids?",
+        "options": ["Increases their acidity", "Decreases their acidity", "Has no effect", "Makes them neutral"],
+        "correctAnswer": "Increases their acidity"
+      },
+      {
+        "id": 3,
+        "question": "What reaction occurs when a carboxylic acid reacts with an alcohol?",
+        "options": ["Decarboxylation", "Esterification", "Reduction", "Hydrolysis"],
+        "correctAnswer": "Esterification"
+      },
+      {
+        "id": 4,
+        "question": "What does decarboxylation remove from carboxylic acids?",
+        "options": ["A hydroxyl group", "A carboxyl group", "A carbon atom", "A hydrogen atom"],
+        "correctAnswer": "A carboxyl group"
+      },
+      {
+        "id": 5,
+        "question": "What are dicarboxylic acids characterized by?",
+        "options": ["One carboxyl group", "Two carboxyl groups", "Three carboxyl groups", "No carboxyl groups"],
+        "correctAnswer": "Two carboxyl groups"
+      },
+      {
+        "id": 6,
+        "question": "What can carboxylic acids be reduced to?",
+        "options": ["Ketones", "Primary alcohols", "Aldehydes", "Esters"],
+        "correctAnswer": "Primary alcohols"
+      },
+      {
+        "id": 7,
+        "question": "What is formed when carboxylic acids react with amines?",
+        "options": ["Esters", "Amides", "Alcohols", "Salts"],
+        "correctAnswer": "Amides"
+      },
+      {
+        "id": 8,
+        "question": "Why do carboxylic acids have higher boiling points than alkanes?",
+        "options": ["Due to van der Waals forces", "Due to hydrogen bonding", "Due to dipole-dipole interactions", "Due to ionic bonds"],
+        "correctAnswer": "Due to hydrogen bonding"
+      },
+      {
+        "id": 9,
+        "question": "What distinguishes unsaturated fatty acids from saturated fatty acids?",
+        "options": ["Presence of double bonds", "Presence of single bonds", "Higher molecular weight", "Lower melting points"],
+        "correctAnswer": "Presence of double bonds"
+      },
+      {
+        "id": 10,
+        "question": "Which common substances contain carboxylic acids?",
+        "options": ["Ethanol and methanol", "Vinegar (acetic acid) and citric acid", "Butane and propane", "Chlorine and fluorine"],
+        "correctAnswer": "Vinegar (acetic acid) and citric acid"
+      }
+    ]
   },
   {
     "id": 8,
-    "question": "Which compound is considered a primary amine?",
-    "options": ["NH2-CH2-CH3", "NH2-CH(CH3)-CH2-CH3", "NH2-CH2-CH2-NH2", "C6H5-NH2"],
-    "correctAnswer": "NH2-CH2-CH3"
+    "topic": "Esters",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What process forms esters from a carboxylic acid and an alcohol?",
+        "options": ["Hydrolysis", "Esterification", "Transesterification", "Reduction"],
+        "correctAnswer": "Esterification"
+      },
+      {
+        "id": 2,
+        "question": "What is the general structure of esters?",
+        "options": ["RCOOH", "RCOOR'", "RCHO", "RNH2"],
+        "correctAnswer": "RCOOR'"
+      },
+      {
+        "id": 3,
+        "question": "What characteristic do esters have that makes them desirable in flavorings and fragrances?",
+        "options": ["Bitter taste", "Pleasant fruity odors", "Strong acidity", "Colorless appearance"],
+        "correctAnswer": "Pleasant fruity odors"
+      },
+      {
+        "id": 4,
+        "question": "What happens during the hydrolysis of esters?",
+        "options": ["They react with alcohol", "They break down into carboxylic acid and alcohol", "They form triglycerides", "They become more acidic"],
+        "correctAnswer": "They break down into carboxylic acid and alcohol"
+      },
+      {
+        "id": 5,
+        "question": "What is transesterification?",
+        "options": ["Formation of an ester", "Exchange of the alkoxy group of an ester with another alcohol", "Hydrolysis of an ester", "Reduction of an ester"],
+        "correctAnswer": "Exchange of the alkoxy group of an ester with another alcohol"
+      },
+      {
+        "id": 6,
+        "question": "How do the boiling points of esters compare to those of carboxylic acids?",
+        "options": ["Higher due to stronger bonding", "Lower due to weaker hydrogen bonding", "Equal", "Not comparable"],
+        "correctAnswer": "Lower due to weaker hydrogen bonding"
+      },
+      {
+        "id": 7,
+        "question": "What do fatty acids form when they react with glycerol?",
+        "options": ["Esters", "Aldehydes", "Alcohols", "Carboxylic acids"],
+        "correctAnswer": "Esters"
+      },
+      {
+        "id": 8,
+        "question": "What can esters undergo to form alcohols?",
+        "options": ["Esterification", "Hydrolysis", "Transesterification", "Dehydration"],
+        "correctAnswer": "Reduction"
+      },
+      {
+        "id": 9,
+        "question": "What type of reaction occurs in the formation of esters?",
+        "options": ["Irreversible", "Reversible", "Unidirectional", "None"],
+        "correctAnswer": "Reversible"
+      },
+      {
+        "id": 10,
+        "question": "Where can natural esters, such as those found in essential oils, be commonly found?",
+        "options": ["In alcohols", "In hydrocarbons", "In fruits and flowers", "In salts"],
+        "correctAnswer": "In fruits and flowers"
+      }
+    ]
   },
   {
     "id": 9,
-    "question": "What type of isomerism occurs when two compounds have the same molecular formula but differ in the arrangement of atoms?",
-    "options": ["Geometric isomerism", "Structural isomerism", "Optical isomerism", "Conformational isomerism"],
-    "correctAnswer": "Structural isomerism"
+    "topic": "Amines and Amides",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What defines amines?",
+        "options": ["Compounds with a nitrogen atom bonded to one or more alkyl or aryl groups.", "Compounds derived from carboxylic acids.", "Compounds with only one alkyl group attached to nitrogen.", "Compounds that do not contain nitrogen."],
+        "correctAnswer": "Compounds with a nitrogen atom bonded to one or more alkyl or aryl groups."
+      },
+      {
+        "id": 2,
+        "question": "What is the general structure of a primary amine?",
+        "options": ["RNH2", "RCONH2", "R2NH", "R3N"],
+        "correctAnswer": "RNH2"
+      },
+      {
+        "id": 3,
+        "question": "How are amines classified?",
+        "options": ["By their odor", "By their color", "By the number of carbon groups attached to nitrogen", "By their melting point"],
+        "correctAnswer": "By the number of carbon groups attached to nitrogen"
+      },
+      {
+        "id": 4,
+        "question": "Why are amines considered basic?",
+        "options": ["Due to the presence of hydrogen bonds", "Because they can accept protons due to the lone pair of electrons on nitrogen", "Because they release OH- ions", "Because they are derived from carboxylic acids"],
+        "correctAnswer": "Because they can accept protons due to the lone pair of electrons on nitrogen"
+      },
+      {
+        "id": 5,
+        "question": "How are amides formed from carboxylic acids?",
+        "options": ["By replacing the nitrogen atom with a hydroxyl group", "By replacing the hydroxyl group (-OH) with an amine group (-NH2)", "By adding water", "By reducing the carboxylic acid"],
+        "correctAnswer": "By replacing the hydroxyl group (-OH) with an amine group (-NH2)"
+      },
+      {
+        "id": 6,
+        "question": "What is the general structure of an amide?",
+        "options": ["RNH2", "RCOOH", "RCONR'R''", "R2NH"],
+        "correctAnswer": "RCONR'R''"
+      },
+      {
+        "id": 7,
+        "question": "How can amides be classified?",
+        "options": ["By color", "By taste", "By the number of alkyl groups attached to nitrogen", "By their melting point"],
+        "correctAnswer": "By the number of alkyl groups attached to nitrogen"
+      },
+      {
+        "id": 8,
+        "question": "What happens during alkylation of amines?",
+        "options": ["An alkyl group is added to the nitrogen", "An alkyl group is removed from the nitrogen", "Amine groups are converted to amides", "A hydrogen atom is replaced by a hydroxyl group"],
+        "correctAnswer": "An alkyl group is added to the nitrogen"
+      },
+      {
+        "id": 9,
+        "question": "Why is the acidity of amides higher than that of amines?",
+        "options": ["Due to resonance stabilization of the amide bond", "Because amides are larger molecules", "Because amides have more hydrogen bonds", "Because amines are basic"],
+        "correctAnswer": "Due to resonance stabilization of the amide bond"
+      },
+      {
+        "id": 10,
+        "question": "What reaction do amines undergo with carboxylic acids?",
+        "options": ["They form esters", "They form amides through a condensation reaction", "They undergo hydrolysis", "They form alcohols"],
+        "correctAnswer": "They form amides through a condensation reaction"
+      }
+    ]
   },
   {
     "id": 10,
-    "question": "What is the main function of a catalyst in a chemical reaction?",
-    "options": ["Increase the yield", "Speed up the reaction", "Change the product", "Lower the temperature"],
-    "correctAnswer": "Speed up the reaction"
-  }
+    "topic": "Nitriles",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What characterizes nitriles?",
+        "options": ["The presence of a cyano group (-C≡N)", "The presence of a hydroxyl group (-OH)", "The presence of a carbonyl group (C=O)", "The presence of an amino group (-NH2)"],
+        "correctAnswer": "The presence of a cyano group (-C≡N)"
+      },
+      {
+        "id": 2,
+        "question": "What is the general formula for nitriles?",
+        "options": ["R-C≡N", "R-COOH", "R-NH2", "R-OH"],
+        "correctAnswer": "R-C≡N"
+      },
+      {
+        "id": 3,
+        "question": "How can nitriles be synthesized?",
+        "options": ["By condensation of two alcohols", "From primary alkyl halides through a nucleophilic substitution reaction with sodium cyanide", "From carboxylic acids", "By reducing ketones"],
+        "correctAnswer": "From primary alkyl halides through a nucleophilic substitution reaction with sodium cyanide"
+      },
+      {
+        "id": 4,
+        "question": "What products can result from hydrolysis of nitriles?",
+        "options": ["Aldehydes", "Carboxylic acids or amides", "Alcohols", "Ketones"],
+        "correctAnswer": "Carboxylic acids or amides"
+      },
+      {
+        "id": 5,
+        "question": "Why are nitriles considered polar compounds?",
+        "options": ["They contain only carbon and hydrogen", "They dissolve in nonpolar solvents", "They can dissolve in polar solvents and have higher boiling points compared to hydrocarbons", "They contain functional groups that are acidic"],
+        "correctAnswer": "They can dissolve in polar solvents and have higher boiling points compared to hydrocarbons"
+      },
+      {
+        "id": 6,
+        "question": "What reducing agents can be used to convert nitriles to primary amines?",
+        "options": ["Hydrochloric acid", "Sodium hydroxide", "Lithium aluminum hydride (LiAlH4) or catalytic hydrogenation", "Potassium permanganate"],
+        "correctAnswer": "Lithium aluminum hydride (LiAlH4) or catalytic hydrogenation"
+      },
+      {
+        "id": 7,
+        "question": "What type of reactions can the cyano group participate in?",
+        "options": ["Only reduction reactions", "Only oxidation reactions", "Nucleophilic addition reactions with carbonyl compounds", "Only condensation reactions"],
+        "correctAnswer": "Nucleophilic addition reactions with carbonyl compounds"
+      },
+      {
+        "id": 8,
+        "question": "Where are nitriles commonly found?",
+        "options": ["In simple sugars", "In pharmaceuticals and agrochemicals", "In proteins", "In nucleic acids"],
+        "correctAnswer": "In pharmaceuticals and agrochemicals"
+      },
+      {
+        "id": 9,
+        "question": "What functional groups can nitriles form through reactions?",
+        "options": ["Esters and aldehydes", "Alcohols and ketones", "Imines or oximes through condensation reactions", "Carboxylic acids and amines"],
+        "correctAnswer": "Imines or oximes through condensation reactions"
+      },
+      {
+        "id": 10,
+        "question": "What is the simplest nitrile and its common use?",
+        "options": ["Propionitrile, used as a flavoring agent", "Acetonitrile (CH3CN), used as a solvent in organic reactions", "Benzonitrile, used in perfumes", "Cyclopropanetrile, used in pesticides"],
+        "correctAnswer": "Acetonitrile (CH3CN), used as a solvent in organic reactions"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "topic": "Thiols, Sulfides, and Sulfonic Acids",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What do thiols contain that characterizes them?",
+        "options": ["A hydroxyl group (-OH)", "A carbonyl group (C=O)", "A sulfhydryl group (-SH)", "An amino group (-NH2)"],
+        "correctAnswer": "A sulfhydryl group (-SH)"
+      },
+      {
+        "id": 2,
+        "question": "What is the general formula for thiols?",
+        "options": ["R-OH", "R-SH", "R-COOH", "R-NH2"],
+        "correctAnswer": "R-SH"
+      },
+      {
+        "id": 3,
+        "question": "How can thiols be transformed?",
+        "options": ["They can be oxidized to form disulfides.", "They can be reduced to form alcohols.", "They can only decompose.", "They cannot be transformed."],
+        "correctAnswer": "They can be oxidized to form disulfides."
+      },
+      {
+        "id": 4,
+        "question": "What is the structure of sulfides?",
+        "options": ["R-O-R'", "R-S-R'", "R-C-R'", "R-N-R'"],
+        "correctAnswer": "R-S-R'"
+      },
+      {
+        "id": 5,
+        "question": "How are sulfides formed?",
+        "options": ["By the reaction of thiols with alkyl halides", "By the reaction of thiols with alcohols", "By the reaction of sulfides with acids", "By the reaction of carboxylic acids with alcohols"],
+        "correctAnswer": "By the reaction of thiols with alkyl halides"
+      },
+      {
+        "id": 6,
+        "question": "What is a characteristic of sulfonic acids?",
+        "options": ["They are weaker acids than carboxylic acids.", "They contain a sulfonic group (-SO3H).", "They are unstable.", "They do not dissolve in water."],
+        "correctAnswer": "They contain a sulfonic group (-SO3H)."
+      },
+      {
+        "id": 7,
+        "question": "What is the general structure of sulfonic acids?",
+        "options": ["R-OH", "R-COOH", "R-SO3H", "R-NH2"],
+        "correctAnswer": "R-SO3H"
+      },
+      {
+        "id": 8,
+        "question": "What are common uses for sulfonic acids?",
+        "options": ["In the synthesis of plastics", "In the synthesis of detergents and dyes", "As preservatives", "In the production of metals"],
+        "correctAnswer": "In the synthesis of detergents and dyes"
+      },
+      {
+        "id": 9,
+        "question": "What type of reactions can thiol groups participate in?",
+        "options": ["Nucleophilic substitutions and the formation of thiol esters", "Only oxidation reactions", "Only hydrolysis reactions", "Only condensation reactions"],
+        "correctAnswer": "Nucleophilic substitutions and the formation of thiol esters"
+      },
+      {
+        "id": 10,
+        "question": "How do sulfonic groups affect the solubility of compounds?",
+        "options": ["They decrease solubility in water.", "They have no effect on solubility.", "They enhance solubility in water due to their polar nature.", "They make compounds insoluble."],
+        "correctAnswer": "They enhance solubility in water due to their polar nature."
+      }
+    ]
+  }  
 ]
+

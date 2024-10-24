@@ -16,14 +16,13 @@ router.get('/', (req, res) => {
 });
 
 router.get('/:id', (req, res) => {
-  const flashcardId = parseInt(req.params.id, 10);
-  const flashcard = flashcardsData.find(f => f.id === flashcardId);
-
-  if (!flashcard) {
-    return res.status(404).json({ error: 'Flashcard not found' });
+  const topicId = parseInt(req.params.id);
+  const topic = flashcardsData.find(t => t.id === topicId);
+  if (topic) {
+    res.json(topic.flashcards);
+  } else {
+    res.status(404).send('Topic not found');
   }
-  
-  res.json(flashcard);
 });
 
 export default router;

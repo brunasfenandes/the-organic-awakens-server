@@ -16,7 +16,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use('/questions', questionsRoutes);
+app.use('/quiz', questionsRoutes);
 app.use('/flashcards', flashcardsRoutes);
 
 app.listen(PORT, () => {
