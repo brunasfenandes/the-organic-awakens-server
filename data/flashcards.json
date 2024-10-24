@@ -3,7 +3,7 @@
     "id": 1,
     "topic": "Alkanes and Cycloalkanes",
     "flashcards": [
-      { "id": 1, "content": "Alkanes are saturated hydrocarbons with the general formula CnH2n+2, where n is the number of carbon atoms." },
+      { "id": 1, "content": "Alkanes are saturated hydrocarbons with the general formula CnH3+2, where n is the number of carbon atoms.", "image": "http://localhost:8080/images/alkane.png" },
       { "id": 2, "content": "Cycloalkanes are cyclic hydrocarbons with the general formula CnH2n, featuring a closed ring structure." },
       { "id": 3, "content": "Straight-chain alkanes have higher boiling points than their branched isomers due to greater surface area." },
       { "id": 4, "content": "Alkanes primarily undergo combustion, producing carbon dioxide (CO2) and water (H2O)." },
