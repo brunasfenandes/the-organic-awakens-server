@@ -9,4 +9,4 @@ export default {
     password: process.env.DB_PASSWORD,
     charset: "utf8",
   },
-};
+}
