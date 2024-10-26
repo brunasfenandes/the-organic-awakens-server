@@ -43,5 +43,132 @@
         "hydrogen": 4
       }
     }
+  },
+  {
+    "topic": "Alkynes",
+    "iupacId": "Acetylene",
+    "formula": "C₂H₂",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=6326",
+    "image": "http://localhost:8080/3dmol/acetylene.png",
+    "info": {
+      "molarmass": "26.04 g/mol",
+      "classification": "Hydrocarbon",
+      "atoms": {
+        "carbon": 2,
+        "hydrogen": 2
+      }
+    }
+  },
+  {
+    "topic": "Alcohols",
+    "iupacId": "Ethanol",
+    "formula": "C₂H₆O",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=702",
+    "image": "http://localhost:8080/3dmol/ethanol.png",
+    "info": {
+      "molarmass": "46.068 g/mol",
+      "classification": "Alcohol",
+      "atoms": {
+        "carbon": 2,
+        "hydrogen": 6,
+        "oxygen": 1
+      }
+    }
+  },
+  {
+    "topic": "Ethers",
+    "iupacId": "Dimethyl Ether",
+    "formula": "C₂H6O",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=8250",
+    "image": "http://localhost:8080/3dmol/dimethyl_ether.png",
+    "info": {
+      "molarmass": "46.07 g/mol",
+      "classification": "Ether",
+      "atoms": {
+        "carbon": 2,
+        "hydrogen": 6,
+        "oxygen": 1
+      }
+    }
+  },
+  {
+    "topic": "Aldehydes",
+    "iupacId": "Formaldehyde",
+    "formula": "CH₂O",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=712",
+    "image": "http://localhost:8080/3dmol/formaldehyde.png",
+    "info": {
+      "molarmass": "30.03 g/mol",
+      "classification": "Aldehyde",
+      "atoms": {
+        "carbon": 1,
+        "hydrogen": 2,
+        "oxygen": 1
+      }
+    }
+  },
+  {
+    "topic": "Ketones",
+    "iupacId": "Acetone",
+    "formula": "C₃H₆O",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=180",
+    "image": "http://localhost:8080/3dmol/acetone.png",
+    "info": {
+      "molarmass": "58.08 g/mol",
+      "classification": "Ketone",
+      "atoms": {
+        "carbon": 3,
+        "hydrogen": 6,
+        "oxygen": 1
+      }
+    }
+  },
+  {
+    "topic": "Carboxylic Acids",
+    "iupacId": "Acetic Acid",
+    "formula": "C₂H4O₂",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=176",
+    "image": "http://localhost:8080/3dmol/acetic_acid.png",
+    "info": {
+      "molarmass": "60.05 g/mol",
+      "classification": "Carboxylic Acid",
+      "atoms": {
+        "carbon": 2,
+        "hydrogen": 4,
+        "oxygen": 2
+      }
+    }
+  },
+  {
+    "topic": "Esters",
+    "iupacId": "Ethyl Acetate",
+    "formula": "C4H8O2",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=8857",
+    "image": "http://localhost:8080/3dmol/ethyl_acetate.png",
+    "info": {
+      "molarmass": "88.11 g/mol",
+      "classification": "Ester",
+      "atoms": {
+        "carbon": 4,
+        "hydrogen": 8,
+        "oxygen": 2
+      }
+    }
+  },
+  {
+    "topic": "Amines",
+    "iupacId": "Methylamine",
+    "formula": "CH5N",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=6324",
+    "image": "http://localhost:8080/3dmol/methylamine.png",
+    "info": {
+      "molarmass": "31.06 g/mol",
+      "classification": "Amine",
+      "atoms": {
+        "carbon": 1,
+        "hydrogen": 5,
+        "nitrogen": 1
+      }
+    }
   }
 ]
