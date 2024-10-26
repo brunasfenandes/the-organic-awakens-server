@@ -4,6 +4,7 @@ import cors from "cors";
 import fs from 'fs';
 import questionsRoutes from './routes/questions.js';
 import flashcardsRoutes from './routes/flashcards.js';
+import molRoutes from './routes/3dmol.js';
 
 const {PORT, BACKEND_URL} = process.env;
 const app = express();
@@ -19,6 +20,7 @@ app.use((req, res, next) => {
 
 app.use('/quiz', questionsRoutes);
 app.use('/flashcards', flashcardsRoutes);
+app.use('/3dmol', molRoutes); 
 
 app.listen(PORT, () => {
   console.log(`Listening at ${BACKEND_URL}:${PORT} `);

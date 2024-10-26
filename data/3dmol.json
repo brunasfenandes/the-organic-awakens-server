@@ -1,0 +1,47 @@
+[
+  {
+    "topic": "Alkanes",
+    "iupacId": "Methane",
+    "formula": "CH₄", 
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=297",
+    "image": "http://localhost:8080/3dmol/methane.png",
+    "info": {
+      "molarmass": "16.04 g/mol",
+      "classification": "Hydrocarbon",
+      "atoms": {
+        "carbon": 1,
+        "hydrogen": 4
+      }
+    }
+  },
+  {
+    "topic": "Alkanes",
+    "iupacId": "Cyclohexane",
+    "formula": "C₆H₁₂",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=8078",
+    "image": "http://localhost:8080/3dmol/cyclohexane.png",
+    "info": {
+      "molarmass": "84.162 g/mol",
+      "classification": "Hydrocarbon",
+      "atoms": {
+        "carbon": 6,
+        "hydrogen": 12
+      }
+    }
+  },
+  {
+    "topic": "Alkenes",
+    "iupacId": "Ethene",
+    "formula": "C₂H4",
+    "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=6325",
+    "image": "http://localhost:8080/3dmol/ethene.png",
+    "info": {
+      "molarmass": "28.05 g/mol",
+      "classification": "Hydrocarbon",
+      "atoms": {
+        "carbon": 2,
+        "hydrogen": 4
+      }
+    }
+  }
+]
