@@ -6,8 +6,7 @@ import questionsRoutes from './routes/questions.js';
 import flashcardsRoutes from './routes/flashcards.js';
 import molRoutes from './routes/3dmol.js';
 
-const BACKEND_URL = process.env.BACKEND_URL;
-const PORT = process.env.PORT || 8080;
+const {PORT, BACKEND_URL} = process.env;
 const app = express();
 
 app.use(cors());
