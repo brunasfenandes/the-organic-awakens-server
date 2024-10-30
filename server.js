@@ -1,4 +1,3 @@
-// Import necessary packages
 import express from 'express';
 import "dotenv/config";
 import cors from "cors";
@@ -10,11 +9,7 @@ import molRoutes from './routes/3dmol.js';
 const {PORT, BACKEND_URL} = process.env;
 const app = express();
 
-
-app.use(cors({
-  origin: 'https://the-organic-awakens.vercel.app' 
-}));
-
+app.use(cors());
 app.use(express.json());
 app.use(express.static("public"));
 
@@ -23,12 +18,10 @@ app.use((req, res, next) => {
   next();
 });
 
-
 app.use('/quiz', questionsRoutes);
 app.use('/flashcards', flashcardsRoutes);
 app.use('/3dmol', molRoutes); 
 
-
 app.listen(PORT, () => {
-  console.log(`Listening at ${BACKEND_URL}:${PORT}`);
+  console.log(`Listening at ${BACKEND_URL}:${PORT} `);
 });
