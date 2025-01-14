@@ -96,7 +96,7 @@
     "iupacId": "Formaldehyde",
     "formula": "CH₂O",
     "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=712",
-    "image": "theorganicawakens-server.netlify.app/3dmol/formaldehyde.png",
+    "image": "https://the-organic-awakens-server.onrender.com/3dmol/formaldehyde.png",
     "info": {
       "molarmass": "30.03 g/mol",
       "classification": "Aldehyde",
@@ -112,7 +112,7 @@
     "iupacId": "Acetone",
     "formula": "C₃H₆O",
     "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=180",
-    "image": "theorganicawakens-server.netlify.app/3dmol/acetone.png",
+    "image": "https://the-organic-awakens-server.onrender.com/3dmol/acetone.png",
     "info": {
       "molarmass": "58.08 g/mol",
       "classification": "Ketone",
@@ -128,7 +128,7 @@
     "iupacId": "Acetic Acid",
     "formula": "C₂H₄O₂",
     "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=176",
-    "image": "theorganicawakens-server.netlify.app/3dmol/acetic_acid.png",
+    "image": "https://the-organic-awakens-server.onrender.com/3dmol/acetic_acid.png",
     "info": {
       "molarmass": "60.05 g/mol",
       "classification": "Carboxylic Acid",
@@ -144,7 +144,7 @@
     "iupacId": "Ethyl Acetate",
     "formula": "C₄H8O₂",
     "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=8857",
-    "image": "theorganicawakens-server.netlify.app/3dmol/ethyl_acetate.png",
+    "image": "https://the-organic-awakens-server.onrender.com/3dmol/ethyl_acetate.png",
     "info": {
       "molarmass": "88.11 g/mol",
       "classification": "Ester",
@@ -160,7 +160,7 @@
     "iupacId": "Methylamine",
     "formula": "CH5N",
     "moleculeUrl": "https://embed.molview.org/v1/?mode=balls&cid=6329",
-    "image": "theorganicawakens-server.netlify.app/3dmol/methylamine.png",
+    "image": "https://the-organic-awakens-server.onrender.com/3dmol/methylamine.png",
     "info": {
       "molarmass": "31.06 g/mol",
       "classification": "Amine",
